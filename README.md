@@ -1,4 +1,4 @@
-The "Deep-Learning" is a repository composed for Beyond Data's deep leaning projects.
+The "Deep-Learning" repository, is a repository composed for Beyond Data's deep leaning projects.
 
 Projects, so far utilize but are not only limited to;
   TensorFlow,
